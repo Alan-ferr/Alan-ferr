@@ -71,6 +71,14 @@ Me chamo Alan Ferreira de Araújo, tenho 22 anos e sou de São Paulo. Concluí m
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
+<img 
+    align="left" 
+    alt="Jupyter Notebook" 
+    title="Jupyter Notebook"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" 
+/>
 
 <br/>
 <br/>
