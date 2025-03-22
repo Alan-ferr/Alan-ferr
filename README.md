@@ -5,7 +5,7 @@
 
 **`Cientista de dados`**
 
-Me chamo Alan Ferreira de Araújo, tenho 22 anos e sou de São Paulo. Concluí minha formação em cientista de dados pela escola dnc. Pretendo cursar Ciência da computação ainda este ano. Sou apaixonado por dados e busco uma oportunidade para migrar para a área.
+Me chamo Alan Ferreira de Araújo, tenho 23 anos e sou de São Paulo. Concluí minha formação em cientista de dados pela escola dnc. Pretendo cursar Ciência da computação ainda este ano. Sou apaixonado por dados e busco uma oportunidade para migrar para a área.
 
 
 
